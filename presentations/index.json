@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T04:27:33.298Z",
+  "updatedAt": "2026-10-04T14:35:53.490Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -45,6 +45,15 @@
       "filename": "opensuse-asia-summit-2026-getting-the-next-generation-to-learn-the-gnu-james-ed-randson.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-getting-the-next-generation-to-learn-the-gnu-james-ed-randson.pdf",
       "addedAt": "2026-10-04T04:27:32.988Z"
+    },
+    {
+      "title": "Distributed Monitoring System using Prometheus and Thanos on openSUSE Servers",
+      "speaker": "Geraldhi Aditya Putra Mahayadnya",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-distributed-monitoring-system-using-prometheu-geraldhi-aditya-putra-mahayadn.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-distributed-monitoring-system-using-prometheu-geraldhi-aditya-putra-mahayadn.pdf",
+      "addedAt": "2026-10-04T14:35:53.171Z"
     }
   ]
 }
