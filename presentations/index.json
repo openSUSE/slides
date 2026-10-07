@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:43:19.065Z",
+  "updatedAt": "2026-10-07T20:07:20.495Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -90,6 +90,15 @@
       "filename": "opensuse-asia-summit-2026-podman-in-opensuse-tumbleweed-leap-didiet-agus-pambudiono.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-podman-in-opensuse-tumbleweed-leap-didiet-agus-pambudiono.pdf",
       "addedAt": "2026-10-07T16:43:18.694Z"
+    },
+    {
+      "title": "How openSUSE Works",
+      "speaker": "Rithull Raj Kallat",
+      "event": "openSUSE Conference 2026",
+      "eventKey": "opensuse-conference-2026",
+      "filename": "opensuse-conference-2026-how-opensuse-works-rithull-raj-kallat.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-conference-2026-how-opensuse-works-rithull-raj-kallat.pdf",
+      "addedAt": "2026-10-07T20:07:20.173Z"
     }
   ]
 }
