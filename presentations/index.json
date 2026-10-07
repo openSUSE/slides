@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:01:49.628Z",
+  "updatedAt": "2026-10-07T16:02:26.503Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -72,6 +72,15 @@
       "filename": "opensuse-asia-summit-2026-the-invisible-infrastructure-of-community-bui-herpiko-dwi-aguno.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-the-invisible-infrastructure-of-community-bui-herpiko-dwi-aguno.pdf",
       "addedAt": "2026-10-07T16:01:49.216Z"
+    },
+    {
+      "title": "Demystifying Server Security: A Beginner-Friendly Intro to Wazuh and openSUSE Leap 16",
+      "speaker": "darian rizaludin",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-demystifying-server-security-a-beginner-frien-darian-rizaludin.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-demystifying-server-security-a-beginner-frien-darian-rizaludin.pdf",
+      "addedAt": "2026-10-07T16:02:26.072Z"
     }
   ]
 }
