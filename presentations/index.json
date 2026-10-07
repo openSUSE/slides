@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T15:37:55.565Z",
+  "updatedAt": "2026-10-07T16:01:49.628Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -63,6 +63,15 @@
       "filename": "opensuse-asia-summit-2026-welcome-to-opensuse-asia-summit-2026-muhammad-dhenandi-putra.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-welcome-to-opensuse-asia-summit-2026-muhammad-dhenandi-putra.pdf",
       "addedAt": "2026-10-07T15:37:55.240Z"
+    },
+    {
+      "title": "The Invisible Infrastructure of Community: Building Communities People Want to Stay In",
+      "speaker": "Herpiko Dwi Aguno",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-the-invisible-infrastructure-of-community-bui-herpiko-dwi-aguno.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-the-invisible-infrastructure-of-community-bui-herpiko-dwi-aguno.pdf",
+      "addedAt": "2026-10-07T16:01:49.216Z"
     }
   ]
 }
