@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:02:26.503Z",
+  "updatedAt": "2026-10-07T16:43:19.065Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -81,6 +81,15 @@
       "filename": "opensuse-asia-summit-2026-demystifying-server-security-a-beginner-frien-darian-rizaludin.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-demystifying-server-security-a-beginner-frien-darian-rizaludin.pdf",
       "addedAt": "2026-10-07T16:02:26.072Z"
+    },
+    {
+      "title": "Podman in openSUSE Tumbleweed / Leap",
+      "speaker": "Didiet Agus Pambudiono",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-podman-in-opensuse-tumbleweed-leap-didiet-agus-pambudiono.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-podman-in-opensuse-tumbleweed-leap-didiet-agus-pambudiono.pdf",
+      "addedAt": "2026-10-07T16:43:18.694Z"
     }
   ]
 }
