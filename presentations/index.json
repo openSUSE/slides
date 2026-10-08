@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:12:32.505Z",
+  "updatedAt": "2026-10-08T09:30:38.945Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -144,6 +144,15 @@
       "filename": "opensuse-asia-summit-2026-how-opensuse-works-rithull-raj-kallat.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-how-opensuse-works-rithull-raj-kallat.pdf",
       "addedAt": "2026-10-08T09:12:32.151Z"
+    },
+    {
+      "title": "The Pragmatic Skripsi: How I Wrote My Undergraduate Thesis Using FOSS on openSUSE",
+      "speaker": "Muhammad Raihan Widagdo",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-the-pragmatic-skripsi-how-i-wrote-my-undergra-muhammad-raihan-widagdo.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-the-pragmatic-skripsi-how-i-wrote-my-undergra-muhammad-raihan-widagdo.pdf",
+      "addedAt": "2026-10-08T09:30:38.540Z"
     }
   ]
 }
