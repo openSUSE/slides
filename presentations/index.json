@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:30:38.945Z",
+  "updatedAt": "2026-10-08T22:47:53.386Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -153,6 +153,15 @@
       "filename": "opensuse-asia-summit-2026-the-pragmatic-skripsi-how-i-wrote-my-undergra-muhammad-raihan-widagdo.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-the-pragmatic-skripsi-how-i-wrote-my-undergra-muhammad-raihan-widagdo.pdf",
       "addedAt": "2026-10-08T09:30:38.540Z"
+    },
+    {
+      "title": "openSUSE Leap Server as an Ideal Platform for Enterprise Data Lakehouse",
+      "speaker": "Bambang Purnomosidi Dwi Putranto",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-opensuse-leap-server-as-an-ideal-platform-for-bambang-purnomosidi-dwi-putran.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-opensuse-leap-server-as-an-ideal-platform-for-bambang-purnomosidi-dwi-putran.pdf",
+      "addedAt": "2026-10-08T22:47:52.876Z"
     }
   ]
 }
