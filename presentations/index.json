@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:07:20.495Z",
+  "updatedAt": "2026-10-08T00:55:56.632Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -99,6 +99,15 @@
       "filename": "opensuse-conference-2026-how-opensuse-works-rithull-raj-kallat.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-conference-2026-how-opensuse-works-rithull-raj-kallat.pdf",
       "addedAt": "2026-10-07T20:07:20.173Z"
+    },
+    {
+      "title": "Kickstart Linux Kernel Contribution by Fixing Coverity Issue",
+      "speaker": "Robertus Diawan Chris",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-kickstart-linux-kernel-contribution-by-fixing-robertus-diawan-chris.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-kickstart-linux-kernel-contribution-by-fixing-robertus-diawan-chris.pdf",
+      "addedAt": "2026-10-08T00:55:56.328Z"
     }
   ]
 }
