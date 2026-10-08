@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:05:05.865Z",
+  "updatedAt": "2026-10-08T04:56:53.319Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -117,6 +117,15 @@
       "filename": "opensuse-asia-summit-2026-gaming-with-cncf-infrastructure-aldin-setiawan.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-gaming-with-cncf-infrastructure-aldin-setiawan.pdf",
       "addedAt": "2026-10-08T02:05:05.063Z"
+    },
+    {
+      "title": "Terminal-First Multimedia on openSUSE",
+      "speaker": "Yuki Otsuka",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-terminal-first-multimedia-on-opensuse-yuki-otsuka.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-terminal-first-multimedia-on-opensuse-yuki-otsuka.pdf",
+      "addedAt": "2026-10-08T04:56:53.054Z"
     }
   ]
 }
