@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:05:05.065Z",
+  "updatedAt": "2026-10-08T09:12:32.505Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -135,6 +135,15 @@
       "filename": "opensuse-asia-summit-2026-terminal-first-multimedia-on-opensuse-yuki-otsuka.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-terminal-first-multimedia-on-opensuse-yuki-otsuka.pdf",
       "addedAt": "2026-10-08T06:05:04.727Z"
+    },
+    {
+      "title": "How openSUSE Works",
+      "speaker": "Rithull Raj Kallat",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-how-opensuse-works-rithull-raj-kallat.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-how-opensuse-works-rithull-raj-kallat.pdf",
+      "addedAt": "2026-10-08T09:12:32.151Z"
     }
   ]
 }
