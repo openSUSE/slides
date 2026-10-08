@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:55:56.632Z",
+  "updatedAt": "2026-10-08T02:05:05.865Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -108,6 +108,15 @@
       "filename": "opensuse-asia-summit-2026-kickstart-linux-kernel-contribution-by-fixing-robertus-diawan-chris.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-kickstart-linux-kernel-contribution-by-fixing-robertus-diawan-chris.pdf",
       "addedAt": "2026-10-08T00:55:56.328Z"
+    },
+    {
+      "title": "Gaming with CNCF Infrastructure",
+      "speaker": "Aldin Setiawan",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-gaming-with-cncf-infrastructure-aldin-setiawan.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-gaming-with-cncf-infrastructure-aldin-setiawan.pdf",
+      "addedAt": "2026-10-08T02:05:05.063Z"
     }
   ]
 }
