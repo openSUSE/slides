@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:47:53.386Z",
+  "updatedAt": "2026-10-09T01:19:14.271Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -162,6 +162,15 @@
       "filename": "opensuse-asia-summit-2026-opensuse-leap-server-as-an-ideal-platform-for-bambang-purnomosidi-dwi-putran.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-opensuse-leap-server-as-an-ideal-platform-for-bambang-purnomosidi-dwi-putran.pdf",
       "addedAt": "2026-10-08T22:47:52.876Z"
+    },
+    {
+      "title": "Practical Vulnerability Management on openSUSE with Wazuh",
+      "speaker": "Rio Wiraldhani",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-practical-vulnerability-management-on-opensus-rio-wiraldhani.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-practical-vulnerability-management-on-opensus-rio-wiraldhani.pdf",
+      "addedAt": "2026-10-09T01:19:13.928Z"
     }
   ]
 }
