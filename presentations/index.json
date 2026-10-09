@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T01:19:14.271Z",
+  "updatedAt": "2026-10-09T06:22:51.741Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -171,6 +171,15 @@
       "filename": "opensuse-asia-summit-2026-practical-vulnerability-management-on-opensus-rio-wiraldhani.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-practical-vulnerability-management-on-opensus-rio-wiraldhani.pdf",
       "addedAt": "2026-10-09T01:19:13.928Z"
+    },
+    {
+      "title": "Building a Campus Cloud with Clientless VM Access: Proxmox VE, Guacamole, RBAC, and Tailsc",
+      "speaker": "Arrizal Yuwana",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-building-a-campus-cloud-with-clientless-vm-ac-arrizal-yuwana.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-building-a-campus-cloud-with-clientless-vm-ac-arrizal-yuwana.pdf",
+      "addedAt": "2026-10-09T06:22:51.386Z"
     }
   ]
 }
