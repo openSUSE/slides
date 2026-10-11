@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:56:26.861Z",
+  "updatedAt": "2026-10-11T16:15:50.398Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -207,6 +207,15 @@
       "filename": "opensuse-conference-2026-securing-the-modern-stack-containers-open-sou-aayan-mateen.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-conference-2026-securing-the-modern-stack-containers-open-sou-aayan-mateen.pdf",
       "addedAt": "2026-10-11T12:56:26.398Z"
+    },
+    {
+      "title": "Building a Personal Multi-Tenant  Web Hosting Server with openSUSE  Leap 16.0",
+      "speaker": "Dhantel Rhesa Prawedha",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-building-a-personal-multi-tenant-web-hosting-dhantel-rhesa-prawedha.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-building-a-personal-multi-tenant-web-hosting-dhantel-rhesa-prawedha.pdf",
+      "addedAt": "2026-10-11T16:15:50.136Z"
     }
   ]
 }
