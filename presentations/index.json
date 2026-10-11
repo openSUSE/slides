@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T16:15:50.398Z",
+  "updatedAt": "2026-10-11T19:42:21.037Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -216,6 +216,15 @@
       "filename": "opensuse-asia-summit-2026-building-a-personal-multi-tenant-web-hosting-dhantel-rhesa-prawedha.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-building-a-personal-multi-tenant-web-hosting-dhantel-rhesa-prawedha.pdf",
       "addedAt": "2026-10-11T16:15:50.136Z"
+    },
+    {
+      "title": "What's new in SUSE Linux Enterprise Server 16.1",
+      "speaker": "Yaroslav Kornilov ",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-what-s-new-in-suse-linux-enterprise-server-16-yaroslav-kornilov.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-what-s-new-in-suse-linux-enterprise-server-16-yaroslav-kornilov.pdf",
+      "addedAt": "2026-10-11T19:42:20.774Z"
     }
   ]
 }
