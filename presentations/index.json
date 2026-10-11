@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:07:16.767Z",
+  "updatedAt": "2026-10-11T12:56:26.861Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -198,6 +198,15 @@
       "filename": "opensuse-asia-summit-2026-year-of-linux-gaming-from-steam-to-epic-a-pra-sendy-aditya-suryana.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-year-of-linux-gaming-from-steam-to-epic-a-pra-sendy-aditya-suryana.pdf",
       "addedAt": "2026-10-10T12:07:16.457Z"
+    },
+    {
+      "title": "Securing the Modern Stack Containers, Open Source, and the Tools Keeping Up",
+      "speaker": "Aayan Mateen",
+      "event": "openSUSE Conference 2026",
+      "eventKey": "opensuse-conference-2026",
+      "filename": "opensuse-conference-2026-securing-the-modern-stack-containers-open-sou-aayan-mateen.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-conference-2026-securing-the-modern-stack-containers-open-sou-aayan-mateen.pdf",
+      "addedAt": "2026-10-11T12:56:26.398Z"
     }
   ]
 }
