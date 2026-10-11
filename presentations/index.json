@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:42:21.037Z",
+  "updatedAt": "2026-10-11T23:20:41.032Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -225,6 +225,15 @@
       "filename": "opensuse-asia-summit-2026-what-s-new-in-suse-linux-enterprise-server-16-yaroslav-kornilov.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-what-s-new-in-suse-linux-enterprise-server-16-yaroslav-kornilov.pdf",
       "addedAt": "2026-10-11T19:42:20.774Z"
+    },
+    {
+      "title": "Immutable and Mutable Chameleon Showdown: A Comparative Study on openSUSE MicroOS and open",
+      "speaker": "Firzan Irfandi Firman",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-immutable-and-mutable-chameleon-showdown-a-co-firzan-irfandi-firman.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-immutable-and-mutable-chameleon-showdown-a-co-firzan-irfandi-firman.pdf",
+      "addedAt": "2026-10-11T23:20:40.684Z"
     }
   ]
 }
