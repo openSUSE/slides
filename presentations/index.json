@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:20:41.032Z",
+  "updatedAt": "2026-10-12T00:04:06.326Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -234,6 +234,15 @@
       "filename": "opensuse-asia-summit-2026-immutable-and-mutable-chameleon-showdown-a-co-firzan-irfandi-firman.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-immutable-and-mutable-chameleon-showdown-a-co-firzan-irfandi-firman.pdf",
       "addedAt": "2026-10-11T23:20:40.684Z"
+    },
+    {
+      "title": "Secrets Across Clusters",
+      "speaker": "Ahmad Saufi Maulana",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-secrets-across-clusters-ahmad-saufi-maulana.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-secrets-across-clusters-ahmad-saufi-maulana.pdf",
+      "addedAt": "2026-10-12T00:04:05.816Z"
     }
   ]
 }
