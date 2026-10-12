@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:04:06.326Z",
+  "updatedAt": "2026-10-12T09:40:07.909Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -243,6 +243,15 @@
       "filename": "opensuse-asia-summit-2026-secrets-across-clusters-ahmad-saufi-maulana.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-secrets-across-clusters-ahmad-saufi-maulana.pdf",
       "addedAt": "2026-10-12T00:04:05.816Z"
+    },
+    {
+      "title": "Get Into The Kernel External Scheduler (sched_ext) - A Study Shared",
+      "speaker": "Tonny Adhi Sabastian",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-get-into-the-kernel-external-scheduler-sched-tonny-adhi-sabastian.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-get-into-the-kernel-external-scheduler-sched-tonny-adhi-sabastian.pdf",
+      "addedAt": "2026-10-12T09:40:07.558Z"
     }
   ]
 }
