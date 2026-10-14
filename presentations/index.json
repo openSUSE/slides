@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:42:26.041Z",
+  "updatedAt": "2026-10-14T10:05:59.446Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -261,6 +261,15 @@
       "filename": "opensuse-asia-summit-2026-get-into-the-kernel-external-scheduler-sched-tonny-adhi-sabastian.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-get-into-the-kernel-external-scheduler-sched-tonny-adhi-sabastian.pdf",
       "addedAt": "2026-10-12T09:42:25.653Z"
+    },
+    {
+      "title": "Integrating Local AI Agents within the openSUSE Ecosystem",
+      "speaker": "Maulana Abdurrahman",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-integrating-local-ai-agents-within-the-opensu-maulana-abdurrahman.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-integrating-local-ai-agents-within-the-opensu-maulana-abdurrahman.pdf",
+      "addedAt": "2026-10-14T10:05:58.782Z"
     }
   ]
 }
