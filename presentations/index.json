@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:57:46.952Z",
+  "updatedAt": "2026-10-19T12:05:41.719Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -279,6 +279,15 @@
       "filename": "opensuse-asia-summit-2026-how-to-type-javanese-and-kawi-scripts-at-open-rahman-yusri-aftian.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-how-to-type-javanese-and-kawi-scripts-at-open-rahman-yusri-aftian.pdf",
       "addedAt": "2026-10-15T06:57:46.687Z"
+    },
+    {
+      "title": "Container Observability on openSUSE: A Practical Guide with Prometheus, cAdvisor, and Graf",
+      "speaker": "Ni Putu Sintia Wati",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-container-observability-on-opensuse-a-practic-ni-putu-sintia-wati.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-container-observability-on-opensuse-a-practic-ni-putu-sintia-wati.pdf",
+      "addedAt": "2026-10-19T12:05:41.451Z"
     }
   ]
 }
