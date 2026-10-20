@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:05:41.719Z",
+  "updatedAt": "2026-10-20T17:49:27.149Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -288,6 +288,15 @@
       "filename": "opensuse-asia-summit-2026-container-observability-on-opensuse-a-practic-ni-putu-sintia-wati.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-container-observability-on-opensuse-a-practic-ni-putu-sintia-wati.pdf",
       "addedAt": "2026-10-19T12:05:41.451Z"
+    },
+    {
+      "title": "Building Resilient Networks with OpenMPTCProuter for Disaster Recovery",
+      "speaker": "Bayu Putra Herlambang",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-building-resilient-networks-with-openmptcprou-bayu-putra-herlambang.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-building-resilient-networks-with-openmptcprou-bayu-putra-herlambang.pdf",
+      "addedAt": "2026-10-20T17:49:26.633Z"
     }
   ]
 }
