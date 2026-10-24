@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:49:27.149Z",
+  "updatedAt": "2026-10-24T03:58:20.227Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -297,6 +297,15 @@
       "filename": "opensuse-asia-summit-2026-building-resilient-networks-with-openmptcprou-bayu-putra-herlambang.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-building-resilient-networks-with-openmptcprou-bayu-putra-herlambang.pdf",
       "addedAt": "2026-10-20T17:49:26.633Z"
+    },
+    {
+      "title": "Running Database Migrations Safely in Kubernetes",
+      "speaker": "Ilham Adi Setiawan",
+      "event": "openSUSE Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-running-database-migrations-safely-in-kuberne-ilham-adi-setiawan.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-running-database-migrations-safely-in-kuberne-ilham-adi-setiawan.pdf",
+      "addedAt": "2026-10-24T03:58:19.927Z"
     }
   ]
 }
