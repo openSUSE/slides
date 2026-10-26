@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:58:20.227Z",
+  "updatedAt": "2026-10-26T08:36:34.599Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -306,6 +306,15 @@
       "filename": "opensuse-asia-summit-2026-running-database-migrations-safely-in-kuberne-ilham-adi-setiawan.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-running-database-migrations-safely-in-kuberne-ilham-adi-setiawan.pdf",
       "addedAt": "2026-10-24T03:58:19.927Z"
+    },
+    {
+      "title": "Securing Microservice Architectures with Traefik and CrowdSec on openSUSE Server",
+      "speaker": "Andi Sugandi",
+      "event": "openSUSE.Asia Summit 2026",
+      "eventKey": "opensuse-asia-summit-2026",
+      "filename": "opensuse-asia-summit-2026-securing-microservice-architectures-with-trae-andi-sugandi.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-securing-microservice-architectures-with-trae-andi-sugandi.pdf",
+      "addedAt": "2026-10-26T08:36:34.045Z"
     }
   ]
 }
