@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:36:34.599Z",
+  "updatedAt": "2026-11-05T19:23:16.242Z",
   "decks": [
     {
       "title": "What’s new with openSUSE",
@@ -315,6 +315,15 @@
       "filename": "opensuse-asia-summit-2026-securing-microservice-architectures-with-trae-andi-sugandi.pdf",
       "url": "https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-securing-microservice-architectures-with-trae-andi-sugandi.pdf",
       "addedAt": "2026-10-26T08:36:34.045Z"
+    },
+    {
+      "title": "Self-Hosted Trading Infrastructure on openSUSE",
+      "speaker": "Douglas DeMaio",
+      "event": "FOSSCOMM 2026",
+      "eventKey": "fosscomm-2026",
+      "filename": "fosscomm-2026-self-hosted-trading-infrastructure-on-opensus-douglas-demaio.pdf",
+      "url": "https://opensuse.github.io/slides/presentations/fosscomm-2026-self-hosted-trading-infrastructure-on-opensus-douglas-demaio.pdf",
+      "addedAt": "2026-11-05T19:23:15.835Z"
     }
   ]
 }
